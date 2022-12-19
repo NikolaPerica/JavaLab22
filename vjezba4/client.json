@@ -1,0 +1,476 @@
+[
+  {
+    "clientID": 100,
+    "clientData": "Milan Karamarko",
+    "address": {
+      "addressID": 100,
+      "streetName": "Trg Britanac",
+      "streetNumber": "5",
+      "city": "Zagreb",
+      "zipCode": "10000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 102,
+      "history": [
+        490,
+        351,
+        272,
+        408,
+        460,
+        397,
+        21
+      ]
+    }
+  },
+  {
+    "clientID": 101,
+    "clientData": "Nikola Perica",
+    "address": {
+      "addressID": 101,
+      "streetName": "Simiceva",
+      "streetNumber": "10",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    }
+  },
+  {
+    "clientID": 102,
+    "clientData": "Petar Preradovic",
+    "address": {
+      "addressID": 102,
+      "streetName": "Rudera Boskovica",
+      "streetNumber": "5",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 103,
+      "history": []
+    }
+  },
+  {
+    "clientID": 100,
+    "clientData": "Milan Karamarko",
+    "address": {
+      "addressID": 100,
+      "streetName": "Trg Britanac",
+      "streetNumber": "5",
+      "city": "Zagreb",
+      "zipCode": "10000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 102,
+      "history": [
+        490,
+        351,
+        272,
+        408,
+        460,
+        397,
+        21,
+        178,
+        295,
+        131
+      ]
+    }
+  },
+  {
+    "clientID": 101,
+    "clientData": "Nikola Perica",
+    "address": {
+      "addressID": 101,
+      "streetName": "Simiceva",
+      "streetNumber": "10",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    }
+  },
+  {
+    "clientID": 102,
+    "clientData": "Petar Preradovic",
+    "address": {
+      "addressID": 102,
+      "streetName": "Rudera Boskovica",
+      "streetNumber": "5",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 103,
+      "history": []
+    }
+  },
+  {
+    "clientID": 100,
+    "clientData": "Milan Karamarko",
+    "address": {
+      "addressID": 100,
+      "streetName": "Trg Britanac",
+      "streetNumber": "5",
+      "city": "Zagreb",
+      "zipCode": "10000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 102,
+      "history": [
+        490,
+        351,
+        272,
+        408,
+        460,
+        397,
+        21,
+        178,
+        295,
+        131,
+        477
+      ]
+    }
+  },
+  {
+    "clientID": 101,
+    "clientData": "Nikola Perica",
+    "address": {
+      "addressID": 101,
+      "streetName": "Simiceva",
+      "streetNumber": "10",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    }
+  },
+  {
+    "clientID": 102,
+    "clientData": "Petar Preradovic",
+    "address": {
+      "addressID": 102,
+      "streetName": "Rudera Boskovica",
+      "streetNumber": "5",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 103,
+      "history": []
+    }
+  },
+  {
+    "clientID": 100,
+    "clientData": "Milan Karamarko",
+    "address": {
+      "addressID": 100,
+      "streetName": "Trg Britanac",
+      "streetNumber": "5",
+      "city": "Zagreb",
+      "zipCode": "10000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 102,
+      "history": [
+        490,
+        351,
+        272,
+        408,
+        460,
+        397,
+        21,
+        178,
+        295,
+        131,
+        477,
+        297
+      ]
+    }
+  },
+  {
+    "clientID": 101,
+    "clientData": "Nikola Perica",
+    "address": {
+      "addressID": 101,
+      "streetName": "Simiceva",
+      "streetNumber": "10",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    }
+  },
+  {
+    "clientID": 102,
+    "clientData": "Petar Preradovic",
+    "address": {
+      "addressID": 102,
+      "streetName": "Rudera Boskovica",
+      "streetNumber": "5",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 103,
+      "history": []
+    }
+  },
+  {
+    "clientID": 103,
+    "clientData": "Marin Ivanov",
+    "address": {
+      "addressID": 103,
+      "streetName": "Rudera Boskovica",
+      "streetNumber": "5",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Slovenia"
+    },
+    "smartDevice": {
+      "smartDeviceID": 103,
+      "history": []
+    }
+  },
+  {
+    "clientID": 100,
+    "clientData": "Milan Karamarko",
+    "address": {
+      "addressID": 100,
+      "streetName": "Trg Britanac",
+      "streetNumber": "5",
+      "city": "Zagreb",
+      "zipCode": "10000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 102,
+      "history": [
+        490,
+        351,
+        272,
+        408,
+        460,
+        397,
+        21,
+        178,
+        295,
+        131,
+        477,
+        297,
+        483
+      ]
+    }
+  },
+  {
+    "clientID": 101,
+    "clientData": "Nikola Perica",
+    "address": {
+      "addressID": 101,
+      "streetName": "Simiceva",
+      "streetNumber": "10",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    }
+  },
+  {
+    "clientID": 102,
+    "clientData": "Petar Preradovic",
+    "address": {
+      "addressID": 102,
+      "streetName": "Rudera Boskovica",
+      "streetNumber": "5",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 103,
+      "history": []
+    }
+  },
+  {
+    "clientID": 100,
+    "clientData": "Milan Karamarko",
+    "address": {
+      "addressID": 100,
+      "streetName": "Trg Britanac",
+      "streetNumber": "5",
+      "city": "Zagreb",
+      "zipCode": "10000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 102,
+      "history": [
+        490,
+        351,
+        272,
+        408,
+        460,
+        397,
+        21,
+        178,
+        295,
+        131,
+        477,
+        297,
+        483,
+        204
+      ]
+    }
+  },
+  {
+    "clientID": 101,
+    "clientData": "Nikola Perica",
+    "address": {
+      "addressID": 101,
+      "streetName": "Simiceva",
+      "streetNumber": "10",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    }
+  },
+  {
+    "clientID": 102,
+    "clientData": "Petar Preradovic",
+    "address": {
+      "addressID": 102,
+      "streetName": "Rudera Boskovica",
+      "streetNumber": "5",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 103,
+      "history": []
+    }
+  },
+  {
+    "clientID": 100,
+    "clientData": "Milan Karamarko",
+    "address": {
+      "addressID": 100,
+      "streetName": "Trg Britanac",
+      "streetNumber": "5",
+      "city": "Zagreb",
+      "zipCode": "10000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 102,
+      "history": [
+        490,
+        351,
+        272,
+        408,
+        460,
+        397,
+        21,
+        178,
+        295,
+        131,
+        477,
+        297,
+        483,
+        204,
+        426
+      ]
+    }
+  },
+  {
+    "clientID": 101,
+    "clientData": "Nikola Perica",
+    "address": {
+      "addressID": 101,
+      "streetName": "Simiceva",
+      "streetNumber": "10",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    }
+  },
+  {
+    "clientID": 102,
+    "clientData": "Petar Preradovic",
+    "address": {
+      "addressID": 102,
+      "streetName": "Rudera Boskovica",
+      "streetNumber": "5",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 103,
+      "history": []
+    }
+  },
+  {
+    "clientID": 100,
+    "clientData": "Milan Karamarko",
+    "address": {
+      "addressID": 100,
+      "streetName": "Trg Britanac",
+      "streetNumber": "5",
+      "city": "Zagreb",
+      "zipCode": "10000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 102,
+      "history": [
+        490,
+        351,
+        272,
+        408,
+        460,
+        397,
+        21,
+        178,
+        295,
+        131,
+        477,
+        297,
+        483,
+        204,
+        426,
+        157
+      ]
+    }
+  },
+  {
+    "clientID": 101,
+    "clientData": "Nikola Perica",
+    "address": {
+      "addressID": 101,
+      "streetName": "Simiceva",
+      "streetNumber": "10",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    }
+  },
+  {
+    "clientID": 102,
+    "clientData": "Petar Preradovic",
+    "address": {
+      "addressID": 102,
+      "streetName": "Rudera Boskovica",
+      "streetNumber": "5",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 103,
+      "history": []
+    }
+  }
+]
