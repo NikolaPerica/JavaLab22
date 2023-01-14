@@ -1,0 +1,461 @@
+[
+  {
+    "smartDeviceID": 106,
+    "history": [
+      {
+        "month": 2,
+        "year": 2022,
+        "value": 305
+      },
+      {
+        "month": 4,
+        "year": 2022,
+        "value": 476
+      },
+      {
+        "month": 1,
+        "year": 2022,
+        "value": 65
+      },
+      {
+        "month": 3,
+        "year": 2022,
+        "value": 71
+      }
+    ]
+  },
+  {
+    "smartDeviceID": 107,
+    "history": [
+      {
+        "month": 1,
+        "year": 2022,
+        "value": 268
+      }
+    ]
+  },
+  {
+    "smartDeviceID": 108,
+    "history": []
+  },
+  {
+    "smartDeviceID": 106,
+    "history": []
+  },
+  {
+    "smartDeviceID": 107,
+    "history": []
+  },
+  {
+    "smartDeviceID": 108,
+    "history": []
+  },
+  {
+    "smartDeviceID": 112,
+    "history": []
+  },
+  {
+    "smartDeviceID": 113,
+    "history": []
+  },
+  {
+    "smartDeviceID": 114,
+    "history": []
+  },
+  {
+    "smartDeviceID": 118,
+    "history": []
+  },
+  {
+    "smartDeviceID": 119,
+    "history": []
+  },
+  {
+    "smartDeviceID": 120,
+    "history": []
+  },
+  {
+    "smartDeviceID": 124,
+    "history": []
+  },
+  {
+    "smartDeviceID": 125,
+    "history": []
+  },
+  {
+    "smartDeviceID": 126,
+    "history": []
+  },
+  {
+    "smartDeviceID": 115,
+    "history": []
+  },
+  {
+    "smartDeviceID": 116,
+    "history": []
+  },
+  {
+    "smartDeviceID": 117,
+    "history": []
+  },
+  {
+    "smartDeviceID": 121,
+    "history": []
+  },
+  {
+    "smartDeviceID": 122,
+    "history": []
+  },
+  {
+    "smartDeviceID": 123,
+    "history": []
+  },
+  {
+    "smartDeviceID": 126,
+    "history": []
+  },
+  {
+    "smartDeviceID": 127,
+    "history": []
+  },
+  {
+    "smartDeviceID": 128,
+    "history": []
+  },
+  {
+    "smartDeviceID": 124,
+    "history": []
+  },
+  {
+    "smartDeviceID": 125,
+    "history": []
+  },
+  {
+    "smartDeviceID": 126,
+    "history": []
+  },
+  {
+    "smartDeviceID": 129,
+    "history": []
+  },
+  {
+    "smartDeviceID": 130,
+    "history": []
+  },
+  {
+    "smartDeviceID": 131,
+    "history": []
+  },
+  {
+    "smartDeviceID": 134,
+    "history": []
+  },
+  {
+    "smartDeviceID": 135,
+    "history": []
+  },
+  {
+    "smartDeviceID": 136,
+    "history": []
+  },
+  {
+    "smartDeviceID": 139,
+    "history": []
+  },
+  {
+    "smartDeviceID": 140,
+    "history": []
+  },
+  {
+    "smartDeviceID": 141,
+    "history": []
+  },
+  {
+    "smartDeviceID": 144,
+    "history": []
+  },
+  {
+    "smartDeviceID": 145,
+    "history": []
+  },
+  {
+    "smartDeviceID": 146,
+    "history": []
+  },
+  {
+    "smartDeviceID": 149,
+    "history": []
+  },
+  {
+    "smartDeviceID": 150,
+    "history": []
+  },
+  {
+    "smartDeviceID": 151,
+    "history": []
+  },
+  {
+    "smartDeviceID": 154,
+    "history": []
+  },
+  {
+    "smartDeviceID": 155,
+    "history": []
+  },
+  {
+    "smartDeviceID": 156,
+    "history": []
+  },
+  {
+    "smartDeviceID": 159,
+    "history": []
+  },
+  {
+    "smartDeviceID": 160,
+    "history": []
+  },
+  {
+    "smartDeviceID": 161,
+    "history": []
+  },
+  {
+    "smartDeviceID": 164,
+    "history": []
+  },
+  {
+    "smartDeviceID": 165,
+    "history": []
+  },
+  {
+    "smartDeviceID": 166,
+    "history": []
+  },
+  {
+    "smartDeviceID": 169,
+    "history": []
+  },
+  {
+    "smartDeviceID": 170,
+    "history": []
+  },
+  {
+    "smartDeviceID": 171,
+    "history": []
+  },
+  {
+    "smartDeviceID": 174,
+    "history": []
+  },
+  {
+    "smartDeviceID": 175,
+    "history": []
+  },
+  {
+    "smartDeviceID": 176,
+    "history": []
+  },
+  {
+    "smartDeviceID": 179,
+    "history": []
+  },
+  {
+    "smartDeviceID": 180,
+    "history": []
+  },
+  {
+    "smartDeviceID": 181,
+    "history": []
+  },
+  {
+    "smartDeviceID": 184,
+    "history": []
+  },
+  {
+    "smartDeviceID": 185,
+    "history": []
+  },
+  {
+    "smartDeviceID": 186,
+    "history": []
+  },
+  {
+    "smartDeviceID": 189,
+    "history": []
+  },
+  {
+    "smartDeviceID": 190,
+    "history": []
+  },
+  {
+    "smartDeviceID": 191,
+    "history": []
+  },
+  {
+    "smartDeviceID": 194,
+    "history": []
+  },
+  {
+    "smartDeviceID": 195,
+    "history": []
+  },
+  {
+    "smartDeviceID": 196,
+    "history": []
+  },
+  {
+    "smartDeviceID": 199,
+    "history": []
+  },
+  {
+    "smartDeviceID": 200,
+    "history": []
+  },
+  {
+    "smartDeviceID": 201,
+    "history": []
+  },
+  {
+    "smartDeviceID": 204,
+    "history": []
+  },
+  {
+    "smartDeviceID": 205,
+    "history": []
+  },
+  {
+    "smartDeviceID": 206,
+    "history": []
+  },
+  {
+    "smartDeviceID": 209,
+    "history": []
+  },
+  {
+    "smartDeviceID": 210,
+    "history": []
+  },
+  {
+    "smartDeviceID": 211,
+    "history": []
+  },
+  {
+    "smartDeviceID": 214,
+    "history": []
+  },
+  {
+    "smartDeviceID": 215,
+    "history": []
+  },
+  {
+    "smartDeviceID": 216,
+    "history": []
+  },
+  {
+    "smartDeviceID": 219,
+    "history": []
+  },
+  {
+    "smartDeviceID": 220,
+    "history": []
+  },
+  {
+    "smartDeviceID": 221,
+    "history": []
+  },
+  {
+    "smartDeviceID": 224,
+    "history": []
+  },
+  {
+    "smartDeviceID": 225,
+    "history": []
+  },
+  {
+    "smartDeviceID": 226,
+    "history": []
+  },
+  {
+    "smartDeviceID": 229,
+    "history": []
+  },
+  {
+    "smartDeviceID": 230,
+    "history": []
+  },
+  {
+    "smartDeviceID": 231,
+    "history": []
+  },
+  {
+    "smartDeviceID": 234,
+    "history": []
+  },
+  {
+    "smartDeviceID": 235,
+    "history": []
+  },
+  {
+    "smartDeviceID": 236,
+    "history": []
+  },
+  {
+    "smartDeviceID": 239,
+    "history": []
+  },
+  {
+    "smartDeviceID": 240,
+    "history": []
+  },
+  {
+    "smartDeviceID": 241,
+    "history": []
+  },
+  {
+    "smartDeviceID": 244,
+    "history": []
+  },
+  {
+    "smartDeviceID": 245,
+    "history": []
+  },
+  {
+    "smartDeviceID": 246,
+    "history": []
+  },
+  {
+    "smartDeviceID": 249,
+    "history": []
+  },
+  {
+    "smartDeviceID": 250,
+    "history": []
+  },
+  {
+    "smartDeviceID": 251,
+    "history": []
+  },
+  {
+    "smartDeviceID": 254,
+    "history": []
+  },
+  {
+    "smartDeviceID": 255,
+    "history": []
+  },
+  {
+    "smartDeviceID": 256,
+    "history": []
+  },
+  {
+    "smartDeviceID": 259,
+    "history": []
+  },
+  {
+    "smartDeviceID": 260,
+    "history": []
+  },
+  {
+    "smartDeviceID": 261,
+    "history": []
+  }
+]
